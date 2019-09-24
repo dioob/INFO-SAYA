@@ -1,7 +1,3 @@
-# Responsi-TCC
-
-Yang sudah saya kerjakan dengan Docker Toolbox :
-
 Link Github :
 https://github.com/dioob/example-nginx
 
